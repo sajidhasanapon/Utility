@@ -1,0 +1,4 @@
+{
+	"cmd" : ["start", "run_python", "$file"],
+	"shell" : true
+}
